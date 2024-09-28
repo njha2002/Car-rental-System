@@ -20,7 +20,7 @@ This is a simple terminal-based **Car Rental System** built using Java and Objec
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/car-rental-system.git
+   git clone https://github.com/your-username/Car-rental-System.git
    ```
 2. Compile the Java files:
    ```bash
